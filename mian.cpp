@@ -4,5 +4,12 @@ using namespace std;
 
 int main()
 {
-	sayHello();
+	// Hello World
+	//sayHello();
+
+	// ÒıÓÃ
+	//reference();
+
+	// Ö¸Õë
+	pointer();
 }

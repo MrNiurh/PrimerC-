@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="mian.cpp" />
+    <ClCompile Include="pointer.cpp" />
+    <ClCompile Include="reference.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myFunction.h" />
