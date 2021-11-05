@@ -30,6 +30,9 @@
     <ClCompile Include="reference.cpp">
       <Filter>源文件\Basic</Filter>
     </ClCompile>
+    <ClCompile Include="string.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myFunction.h">

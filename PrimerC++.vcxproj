@@ -143,6 +143,7 @@
     <ClCompile Include="mian.cpp" />
     <ClCompile Include="pointer.cpp" />
     <ClCompile Include="reference.cpp" />
+    <ClCompile Include="string.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myFunction.h" />

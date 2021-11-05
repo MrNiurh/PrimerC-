@@ -11,5 +11,11 @@ int main()
 	//reference();
 
 	// 指针
-	pointer();
+	//pointer();
+
+	// 字符串
+	str();
+
+	// 读取整行字符串
+	//getLine();
 }
