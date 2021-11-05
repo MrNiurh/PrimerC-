@@ -11,7 +11,7 @@ void str()
 {
 	string s1; // 默认初始化,s1 是一个空字符串
 	string s2 = s1; // s2 是 s1 的副本
-	string s3 = "hiya!"; // s3 是该字符串字面值的副本
+	string s3 = "hello!"; // s3 是该字符串字面值的副本
 	string s4(10, 'c'); // s4 的内容是 cccccccccc
 
 	cout << "s1:" << s1 << "\ns2:" << s2 << "\ns3:" << s3 << "\ns4:" << s4 << endl;
@@ -19,7 +19,7 @@ void str()
 	bool isEmpty = s1.empty();// 为空返回 true
 	unsigned int size = s3.size();// 字符串中字符的个数,返回的是一个无符号整数
 
-	// stirng 对象会自动忽略开头的空白(即空格符,换行符,制表符等)并从第一个真正的字符开始读起
+	// string 对象会自动忽略开头的空白(即空格符,换行符,制表符等)并从第一个真正的字符开始读起
 	// 知道遇到下一次空白为止
 	string s5, s6;
 	//cin >> s5 >> s6;
