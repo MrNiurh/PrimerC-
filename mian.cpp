@@ -14,8 +14,11 @@ int main()
 	//pointer();
 
 	// 字符串
-	str();
+	//str();
 
 	// 读取整行字符串
 	//getLine();
+
+	// 迭代器
+	iteratorPrint();
 }
