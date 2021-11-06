@@ -20,5 +20,8 @@ int main()
 	//getLine();
 
 	// µü´úÆ÷
-	iteratorPrint();
+	//iteratorPrint();
+
+	// Êý×é
+	arrayPrint();
 }

@@ -28,3 +28,8 @@ void getLine();
 ตüด๚ฦ๗
 */
 void iteratorPrint();
+
+/*
+สýื้
+*/
+void arrayPrint();
